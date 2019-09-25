@@ -1,6 +1,6 @@
 # Natural Language Processing 
 
-<!-- Codes for assignments of [CS 6501 Natural Language Processing](https://github.com/jiyfeng/uva-nlp-class), developed by [Jiayi Chen](https://github.com/jia-yi-chen). -->
+Developed by [Jiayi Chen](https://github.com/jia-yi-chen) for [CS 6501 Natural Language Processing](https://github.com/jiyfeng/uva-nlp-class).
 
 ## Requirements
 
@@ -15,3 +15,4 @@
 * POS Tagging
 * Hidden Markov Model
 * LSTM Language Model
+
