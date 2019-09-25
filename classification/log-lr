@@ -1,0 +1,270 @@
+=============Using Stopwords,min_df=2, max_df=0.5 ============
+
+When lamda =  0.001
+    Training time is  3.79016304016  seconds
+    Training accuracy = 0.9999666666666667
+    Dev accuracy = 0.8775
+When lamda =  0.01
+    Training time is  4.08359694481  seconds
+    Training accuracy = 0.9999666666666667
+    Dev accuracy = 0.8768
+When lamda =  0.1
+    Training time is  3.83414697647  seconds
+    Training accuracy = 0.9999
+    Dev accuracy = 0.8805
+When lamda =  1.0
+    Training time is  3.65834212303  seconds
+    Training accuracy = 0.9986333333333334
+    Dev accuracy = 0.8835
+When lamda =  10.0
+    Training time is  3.8734190464  seconds
+    Training accuracy = 0.9675666666666667
+    Dev accuracy = 0.883
+When lamda =  1000.0
+    Training time is  0.843357086182  seconds
+    Training accuracy = 0.8471
+    Dev accuracy = 0.8322
+
+=============Using Stopwords,min_df=3============
+When lamda =  0.001
+    Training time is  2.76244306564  seconds
+    Training accuracy = 0.9999666666666667
+    Dev accuracy = 0.8722
+When lamda =  0.01
+    Training time is  2.73903489113  seconds
+    Training accuracy = 0.9999666666666667
+    Dev accuracy = 0.873
+When lamda =  0.1
+    Training time is  2.36861896515  seconds
+    Training accuracy = 0.9998666666666667
+    Dev accuracy = 0.8773
+When lamda =  1.0
+    Training time is  2.71140694618  seconds
+    Training accuracy = 0.9977666666666667
+    Dev accuracy = 0.8831
+When lamda =  10.0
+    Training time is  1.7957098484  seconds
+    Training accuracy = 0.9599333333333333
+    Dev accuracy = 0.8826
+When lamda =  100.0
+    Training time is  0.914862155914  seconds
+    Training accuracy = 0.9018
+    Dev accuracy = 0.8678
+
+=============Using Stopwords ============or +  max_df=0.5
+
+When lamda =  0.001
+    Training time is  17.6971120834  seconds
+    Training accuracy = 1.0
+    Dev accuracy = 0.8815
+When lamda =  0.01
+    Training time is  17.2497961521  seconds
+    Training accuracy = 1.0
+    Dev accuracy = 0.8812
+When lamda =  0.1
+    Training time is  15.738022089  seconds
+    Training accuracy = 1.0
+    Dev accuracy = 0.8816
+When lamda =  1.0
+    Training time is  17.1217279434  seconds
+    Training accuracy = 0.9998
+    Dev accuracy = 0.8839
+When lamda =  10.0
+    Training time is  14.5791168213  seconds
+    Training accuracy = 0.9824666666666667
+    Dev accuracy = 0.8807
+When lamda =  100.0
+    Training time is  7.75433492661  seconds
+    Training accuracy = 0.9155333333333333
+    Dev accuracy = 0.8669
+
+=============No Stopwords, min_df=2, max_df=0.5 ============
+
+    When lamda =  0.001
+    Training time is  6.88020205498  seconds
+    Training accuracy = 0.9999666666666667
+    Dev accuracy = 0.9034
+When lamda =  0.01
+    Training time is  6.15600800514  seconds
+    Training accuracy = 0.9999666666666667
+    Dev accuracy = 0.9029
+When lamda =  0.1
+    Training time is  6.43395090103  seconds
+    Training accuracy = 0.9999666666666667
+    Dev accuracy = 0.9024
+When lamda =  1.0
+    Training time is  6.53143000603  seconds
+    Training accuracy = 0.9998
+    Dev accuracy = 0.904
+When lamda =  10.0
+    Training time is  6.03401684761  seconds
+    Training accuracy = 0.9906
+    Dev accuracy = 0.9062
+When lamda =  1000.0
+    Training time is  1.72913789749  seconds
+    Training accuracy = 0.8780333333333333
+    Dev accuracy = 0.8613
+
+=============No Stopwords, min_df=3, max_df=0.5 ============
+
+When lamda =  0.002
+    Training time is  4.48069691658  seconds
+    Training accuracy = 0.9999666666666667
+    Dev accuracy = 0.9003
+When lamda =  0.01
+    Training time is  4.26691317558  seconds
+    Training accuracy = 0.9999666666666667
+    Dev accuracy = 0.9011
+When lamda =  0.1
+    Training time is  5.13439702988  seconds
+    Training accuracy = 0.9999666666666667
+    Dev accuracy = 0.9018
+When lamda =  1.0
+    Training time is  4.69784593582  seconds
+    Training accuracy = 0.9998
+    Dev accuracy = 0.9034
+When lamda =  10.0
+    Training time is  4.35429406166  seconds
+    Training accuracy = 0.9889
+    Dev accuracy = 0.9063
+When lamda =  20.0
+    Training time is  4.34838104248  seconds
+    Training accuracy = 0.9767666666666667
+    Dev accuracy = 0.905
+=============No Stopwords, min_df=4, max_df=0.5 ============
+When lamda =  0.002
+    Training time is  3.73014807701  seconds
+    Training accuracy = 0.9999666666666667
+    Dev accuracy = 0.9
+When lamda =  0.01
+    Training time is  3.54035282135  seconds
+    Training accuracy = 0.9999666666666667
+    Dev accuracy = 0.8993
+When lamda =  0.1
+    Training time is  4.1732339859  seconds
+    Training accuracy = 0.9999666666666667
+    Dev accuracy = 0.9006
+When lamda =  1.0
+    Training time is  4.04150509834  seconds
+    Training accuracy = 0.9997
+    Dev accuracy = 0.9023
+When lamda =  10.0
+    Training time is  5.13243412971  seconds
+    Training accuracy = 0.9876333333333334
+    Dev accuracy = 0.9058
+When lamda =  20.0
+    Training time is  3.81855797768  seconds
+    Training accuracy = 0.9747333333333333
+    Dev accuracy = 0.9046
+
+
+
+
+=============No Stopwords, ngram_range=(1, 3),min_df=3, max_df=0.5============274105feature
+When lamda =  0.002
+    Training time is  8.24295401573  seconds
+    Training accuracy = 0.9999666666666667
+    Dev accuracy = 0.9032
+When lamda =  0.01
+    Training time is  7.83918404579  seconds
+    Training accuracy = 0.9999666666666667
+    Dev accuracy = 0.9028
+When lamda =  0.1
+    Training time is  9.67851114273  seconds
+    Training accuracy = 0.9999666666666667
+    Dev accuracy = 0.904
+When lamda =  1.0
+    Training time is  8.21413898468  seconds
+    Training accuracy = 0.9999666666666667
+    Dev accuracy = 0.9057
+When lamda =  1.25
+    Training time is  10.0332159996  seconds
+    Training accuracy = 0.9998666666666667
+    Dev accuracy = 0.9055
+When lamda =  2.5
+    Training time is  8.90992188454  seconds
+    Training accuracy = 0.9995666666666667
+    Dev accuracy = 0.9071
+When lamda =  5.0
+    Training time is  8.1592810154  seconds
+    Training accuracy = 0.9981
+    Dev accuracy = 0.907
+When lamda =  5.88235294118
+    Training time is  9.54711198807  seconds
+    Training accuracy = 0.9975333333333334
+    Dev accuracy = 0.9067
+When lamda =  6.66666666667
+    Training time is  10.1694469452  seconds
+    Training accuracy = 0.9972
+    Dev accuracy = 0.9072
+When lamda =  7.14285714286  （C_parameters=[0.14]）
+    Training time is  8.09432411194  seconds
+    Training accuracy = 0.9969666666666667
+    Dev accuracy = 0.9073
+When lamda =  8.0
+    Training time is  8.1313700676  seconds
+    Training accuracy = 0.9963666666666666
+    Dev accuracy = 0.9069
+When lamda =  10.0
+    Training time is  8.01472091675  seconds
+    Training accuracy = 0.9946666666666667
+    Dev accuracy = 0.9068
+When lamda =  13.3333333333
+    Training time is  10.0630099773  seconds
+    Training accuracy = 0.9919
+    Dev accuracy = 0.9066
+When lamda =  20.0
+    Training time is  7.80541706085  seconds
+    Training accuracy = 0.9863
+    Dev accuracy = 0.9057
+=============No Stopwords, ngram_range=(1, 3)，min_df=3======274116
+When lamda =  0.002
+    Training time is  10.7068622112  seconds
+    Training accuracy = 0.9999666666666667
+    Dev accuracy = 0.9035
+When lamda =  0.01
+    Training time is  10.5498211384  seconds
+    Training accuracy = 0.9999666666666667
+    Dev accuracy = 0.9047
+When lamda =  0.1
+    Training time is  8.63057303429  seconds
+    Training accuracy = 0.9999666666666667
+    Dev accuracy = 0.9043
+When lamda =  1.0
+    Training time is  9.44631004333  seconds
+    Training accuracy = 0.9999333333333333
+    Dev accuracy = 0.9045
+When lamda =  10.0
+    Training time is  8.39118790627  seconds
+    Training accuracy = 0.9944
+    Dev accuracy = 0.905
+When lamda =  20.0
+    Training time is  8.62732100487  seconds
+    Training accuracy = 0.9862333333333333
+    Dev accuracy = 0.9049
+
+=============No Stopwords, ngram_range=(1, 3),min_df=2, max_df=0.5============508864 feature
+When lamda =  0.002
+    Training time is  15.2944200039  seconds
+    Training accuracy = 0.9999666666666667
+    Dev accuracy = 0.9028
+When lamda =  0.01
+    Training time is  14.8067111969  seconds
+    Training accuracy = 0.9999666666666667
+    Dev accuracy = 0.9034
+When lamda =  0.1
+    Training time is  15.7989060879  seconds
+    Training accuracy = 0.9999666666666667
+    Dev accuracy = 0.9049
+When lamda =  1.0
+    Training time is  13.9765179157  seconds
+    Training accuracy = 0.9999666666666667
+    Dev accuracy = 0.9061
+When lamda =  10.0
+    Training time is  14.5537428856  seconds
+    Training accuracy = 0.9958333333333333
+    Dev accuracy = 0.9066
+When lamda =  20.0
+    Training time is  16.1305699348  seconds
+    Training accuracy = 0.9888333333333333
+    Dev accuracy = 0.9054
