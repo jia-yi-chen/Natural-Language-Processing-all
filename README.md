@@ -4,8 +4,8 @@
 
 ## Requirements
 
-python 3
-pytorch 1.0+
+* python 3
+* pytorch 1.0+
 
 ## Topics included
 
