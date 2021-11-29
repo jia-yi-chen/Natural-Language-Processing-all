@@ -1,6 +1,6 @@
 # Natural Language Processing 
 
-Developed by [Jiayi Chen](https://github.com/jia-yi-chen) for [CS 6501 Natural Language Processing](https://github.com/jiyfeng/uva-nlp-class).
+Author [Jiayi Chen](https://github.com/jia-yi-chen) 
 
 ## Requirements
 
